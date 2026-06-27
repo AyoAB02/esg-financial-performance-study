@@ -1,5 +1,7 @@
 # Data
 *.csv
+!SP500_esg_snapshot.csv
+!sp500_stocks.csv
 *.xlsx
 *.xls
 *.json
